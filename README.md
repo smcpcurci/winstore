@@ -1,0 +1,2 @@
+# winstore
+package winstore
